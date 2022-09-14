@@ -1,0 +1,1 @@
+web: node ./Fintech-backend/authdemo.js
