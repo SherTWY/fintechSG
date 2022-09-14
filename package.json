@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SherTWY/fintech-backend.git"
+    "url": "git+https://github.com/SherTWY/fintechSG.git"
   },
   "author": "Sherrich",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SherTWY/fintech-backend/issues"
+    "url": "https://github.com/SherTWY/fintechSG/issues"
   },
-  "homepage": "https://github.com/SherTWY/fintech-backend#readme",
+  "homepage": "https://github.com/SherTWY/fintechSG#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.2",

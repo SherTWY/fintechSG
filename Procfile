@@ -1,1 +1,1 @@
-web: node ./Fintech-backend/authdemo.js
+web: node ./backend/authdemo.js
